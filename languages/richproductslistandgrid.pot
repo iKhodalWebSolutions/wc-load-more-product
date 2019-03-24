@@ -1,0 +1,687 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rich Woocommerce Product List & Grid View\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-13 02:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: include/admin.php:279
+msgid "Activate"
+msgstr ""
+
+#: include/admin.php:239
+msgid "Activate/Deactivate plugin using provided license key."
+msgstr ""
+
+#: include/admin.php:271
+msgid "Activated"
+msgstr ""
+
+#: include/abstract.php:106
+msgid "Add color code or color name for product title color."
+msgstr ""
+
+#: include/abstract.php:126
+msgid "Add color code or color name for widget heading background."
+msgstr ""
+
+#: include/abstract.php:116
+msgid "Add color code or color name for widget heading title."
+msgstr ""
+
+#: include/abstract.php:281
+msgid ""
+"Add comma separated categories IDs in order to short categories tabs. eg. 1,"
+"3,8,2"
+msgstr ""
+
+#: include/shortcode.php:253 include/shortcode.php:254
+msgid "Add New Shortcode"
+msgstr ""
+
+#: include/abstract.php:96
+msgid "Add the integer value to load default number of products."
+msgstr ""
+
+#: include/abstract.php:370
+msgid ""
+"Add the length of short content if short content has enabled to view. "
+"Default content length is 100"
+msgstr ""
+
+#: include/abstract.php:135
+msgid "Add width of widget in pixel or percentage. Default width is 100%"
+msgstr ""
+
+#: templates/fields/fld_option.php:34 templates/fields/fld_option.php:72
+#: templates/fields/fld_text.php:21 templates/fields/fld_text.php:48
+msgid "Add your license key"
+msgstr ""
+
+#: include/abstract.php:70 include/abstract.php:641 include/abstract.php:740
+#: include/abstract.php:813 include/abstract.php:948 include/shortcode.php:257
+#: templates/fronted/ajax_load_products.php:40
+#: templates/fronted/front_template.php:132
+msgid "All"
+msgstr ""
+
+#: include/admin.php:213
+msgid ""
+"Already plugin activated. Please deactivate from all of your sites before "
+"activating it."
+msgstr ""
+
+#: include/abstract.php:268 include/abstract.php:453
+msgid "Ascending"
+msgstr ""
+
+#: include/abstract.php:472
+msgid "Auto adjust image width to maximum width"
+msgstr ""
+
+#: templates/fronted/ajax_load_more_products.php:92
+#: templates/fronted/ajax_load_products.php:151
+#: templates/fronted/front_template.php:223
+msgid "By"
+msgstr ""
+
+#: include/abstract.php:278
+msgid "Categories IDs"
+msgstr ""
+
+#: include/abstract.php:213
+msgid "Category"
+msgstr ""
+
+#: include/abstract.php:456
+msgid "Change the product ordering/shorting like ascending, descending."
+msgstr ""
+
+#: templates/fronted/ajax_load_products.php:136
+#: templates/fronted/front_template.php:209
+msgid "Comment"
+msgstr ""
+
+#: templates/fronted/ajax_load_more_products.php:78
+#: templates/fronted/ajax_load_products.php:136
+#: templates/fronted/front_template.php:209
+msgid "Comments"
+msgstr ""
+
+#: include/admin.php:268
+msgid "Current License Status"
+msgstr ""
+
+#: include/abstract.php:220 include/abstract.php:246 include/abstract.php:259
+#: include/abstract.php:531
+msgid "Custom Product Settings"
+msgstr ""
+
+#: include/admin.php:281
+msgid "Deactivate"
+msgstr ""
+
+#: include/admin.php:271
+msgid "Deactivated"
+msgstr ""
+
+#: include/abstract.php:269 include/abstract.php:454
+msgid "Descending"
+msgstr ""
+
+#: include/shortcode.php:255
+msgid "Edit"
+msgstr ""
+
+#: include/abstract.php:242
+msgid "Enable product count with category name"
+msgstr ""
+
+#: include/abstract.php:229
+msgid "Enable RTL"
+msgstr ""
+
+#: include/abstract.php:473
+msgid "Fixed/static image width with centered aligned"
+msgstr ""
+
+#: include/abstract.php:474
+msgid "Fixed/static image width with left aligned"
+msgstr ""
+
+#: include/abstract.php:87 include/abstract.php:97 include/abstract.php:107
+#: include/abstract.php:117 include/abstract.php:127 include/abstract.php:136
+#: include/abstract.php:149 include/abstract.php:162 include/abstract.php:185
+#: include/abstract.php:198 include/abstract.php:233 include/abstract.php:273
+#: include/abstract.php:282 include/abstract.php:295 include/abstract.php:308
+#: include/abstract.php:321 include/abstract.php:334 include/abstract.php:347
+#: include/abstract.php:362 include/abstract.php:371 include/abstract.php:384
+#: include/abstract.php:410 include/abstract.php:420 include/abstract.php:430
+#: include/abstract.php:444 include/abstract.php:457 include/abstract.php:466
+#: include/abstract.php:480 include/abstract.php:496 include/abstract.php:506
+#: include/abstract.php:519
+msgid "General Settings"
+msgstr ""
+
+#: include/abstract.php:406
+msgid "Hide add to cart button"
+msgstr ""
+
+#: include/abstract.php:317
+msgid "Hide ajax paging, load more or next-prev links"
+msgstr ""
+
+#: include/abstract.php:291
+msgid "Hide comments count"
+msgstr ""
+
+#: include/abstract.php:255
+msgid "Hide empty categories"
+msgstr ""
+
+#: include/abstract.php:304
+msgid "Hide posted date"
+msgstr ""
+
+#: include/abstract.php:330
+msgid "Hide product image"
+msgstr ""
+
+#: include/abstract.php:343
+msgid "Hide product short content"
+msgstr ""
+
+#: include/abstract.php:194
+msgid "Hide product title?"
+msgstr ""
+
+#: include/abstract.php:380
+msgid "Hide read more link"
+msgstr ""
+
+#: include/abstract.php:158
+msgid "Hide search textbox?"
+msgstr ""
+
+#: include/abstract.php:145
+msgid "Hide widget title?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.ikhodal.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.ikhodal.com/wp-category-and-product-tab"
+msgstr ""
+
+#. Author of the plugin
+msgid "ikhodal web solution"
+msgstr ""
+
+#: include/admin.php:222
+msgid ""
+"Invalid license key. Please get valid licence key from ikhodal.com account, "
+"If you have already purchased plugin for wordpress."
+msgstr ""
+
+#: include/admin.php:258 include/admin.php:305 include/admin.php:305
+msgid "License Key"
+msgstr ""
+
+#: include/admin.php:210
+msgid "License key has been activated."
+msgstr ""
+
+#: include/admin.php:219
+msgid "License key has been deactivated."
+msgstr ""
+
+#: templates/fronted/ajax_load_more_products.php:135
+#: templates/fronted/ajax_load_products.php:195
+#: templates/fronted/front_template.php:266
+msgid "Load More"
+msgstr ""
+
+#: include/abstract.php:353
+msgid "Load more option"
+msgstr ""
+
+#: include/abstract.php:490
+msgid "Loads grid products from bottom"
+msgstr ""
+
+#: include/abstract.php:487
+msgid "Loads grid products from left"
+msgstr ""
+
+#: include/abstract.php:488
+msgid "Loads grid products from right"
+msgstr ""
+
+#: include/abstract.php:489
+msgid "Loads grid products from top"
+msgstr ""
+
+#: include/abstract.php:416
+msgid "Maximum image and content block width"
+msgstr ""
+
+#: include/abstract.php:426
+msgid "Maximum image height"
+msgstr ""
+
+#: include/abstract.php:502
+msgid "Mouse hover effect"
+msgstr ""
+
+#: include/shortcode.php:256
+msgid "New"
+msgstr ""
+
+#: include/abstract.php:1661
+msgid "Next"
+msgstr ""
+
+#: include/abstract.php:354
+msgid "Next and previous links"
+msgstr ""
+
+#: include/abstract.php:143 include/abstract.php:156 include/abstract.php:192
+#: include/abstract.php:227 include/abstract.php:240 include/abstract.php:253
+#: include/abstract.php:289 include/abstract.php:302 include/abstract.php:315
+#: include/abstract.php:328 include/abstract.php:341 include/abstract.php:378
+#: include/abstract.php:404 include/abstract.php:513
+msgid "No"
+msgstr ""
+
+#: include/abstract.php:913 include/abstract.php:963
+msgid "No category found."
+msgstr ""
+
+#: include/shortcode.php:260
+msgid "No item found"
+msgstr ""
+
+#: include/shortcode.php:261
+msgid "No item found in Trash"
+msgstr ""
+
+#: templates/fronted/ajax_load_more_products.php:19
+#: templates/fronted/ajax_load_products.php:75
+#: templates/fronted/front_template.php:289
+msgid "No products found."
+msgstr ""
+
+#: include/abstract.php:70 include/abstract.php:486 include/abstract.php:641
+#: include/abstract.php:650 include/abstract.php:740 include/abstract.php:947
+#: include/abstract.php:1414
+msgid "None"
+msgstr ""
+
+#: include/abstract.php:94
+msgid "Number of product to display"
+msgstr ""
+
+#: include/abstract.php:435
+msgid "Ordering/ shorting products by"
+msgstr ""
+
+#: include/abstract.php:357
+msgid "Pagination Type"
+msgstr ""
+
+#: include/abstract.php:86
+msgid "Please enter the widget title."
+msgstr ""
+
+#: include/admin.php:228 include/admin.php:262
+msgid "Please enter valid license key."
+msgstr ""
+
+#: include/shortcode.php:159
+msgid "Please make the publish status to get the shortcode"
+msgstr ""
+
+#: include/abstract.php:219
+msgid ""
+"Please select the categories of which data to be shown. Note: Content of all "
+"the categories will be loaded on fronted if you are not selecting any of the "
+"categories."
+msgstr ""
+
+#: include/admin.php:225
+msgid "Please try again after some time."
+msgstr ""
+
+#: include/abstract.php:441
+msgid "Posted/Created Date"
+msgstr ""
+
+#: include/abstract.php:1592
+msgid "Previous"
+msgstr ""
+
+#: include/abstract.php:439
+msgid "Product ID"
+msgstr ""
+
+#: include/shortcode.php:79
+msgid "Product List and Grid View"
+msgstr ""
+
+#: include/abstract.php:103
+msgid "Product title text color"
+msgstr ""
+
+#: include/abstract.php:476
+msgid "Products grid alignment"
+msgstr ""
+
+#. Description of the plugin
+msgid "Products list and grid view as a widget and content block"
+msgstr ""
+
+#: include/abstract.php:492
+msgid "Products loading effect on pagination"
+msgstr ""
+
+#: templates/fronted/ajax_load_more_products.php:99
+#: templates/fronted/ajax_load_products.php:158
+#: templates/fronted/front_template.php:230
+msgid "Read More"
+msgstr ""
+
+#: include/abstract.php:82
+msgid "Rich Product List and Grid View"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rich Woocommerce Product List & Grid View"
+msgstr ""
+
+#: include/shortcode.php:251 include/shortcode.php:252
+msgid "Rich Woocommerce Product List & Grid View Shortcode"
+msgstr ""
+
+#: include/shortcode.php:259 templates/fronted/ajax_load_products.php:35
+#: templates/fronted/front_template.php:103
+msgid "Search"
+msgstr ""
+
+#: include/abstract.php:272
+msgid ""
+"Select \"Ascending\" or \"Descending\" shorting order of category name. "
+"Default is \"Ascending\" to display it."
+msgstr ""
+
+#: include/abstract.php:245
+msgid ""
+"Select \"Yes\" to enable product count with category name. Default value is "
+"\"No\" as disabled."
+msgstr ""
+
+#: include/abstract.php:232
+msgid "Select \"Yes\" to enable rtl support. Default is \"No\" to display it."
+msgstr ""
+
+#: include/abstract.php:409
+msgid ""
+"Select \"Yes\" to hide add to cart button. Default value is \"No\" to "
+"display it."
+msgstr ""
+
+#: include/abstract.php:320
+msgid "Select \"Yes\" to hide ajax paging, load more or next-prev links."
+msgstr ""
+
+#: include/abstract.php:294
+msgid ""
+"Select \"Yes\" to hide comments count of the products. Default is \"No\" to "
+"display it."
+msgstr ""
+
+#: include/abstract.php:258
+msgid ""
+"Select \"Yes\" to hide empty categories. Default value is \"No\" to display "
+"it."
+msgstr ""
+
+#: include/abstract.php:307
+msgid ""
+"Select \"Yes\" to hide posted date of products. Default is \"No\" to display "
+"it."
+msgstr ""
+
+#: include/abstract.php:346
+msgid "Select \"Yes\" to hide product short content."
+msgstr ""
+
+#: include/abstract.php:383
+msgid ""
+"Select \"Yes\" to hide read more link. Default value is \"No\" to display it."
+msgstr ""
+
+#: include/abstract.php:161
+msgid ""
+"Select \"Yes\" to hide search textbox field. Default is \"No\" to display it."
+msgstr ""
+
+#: include/abstract.php:333
+msgid "Select \"Yes\" to hide the product image."
+msgstr ""
+
+#: include/abstract.php:197
+msgid ""
+"Select \"Yes\" to hide the product title. Default is \"No\" to display it."
+msgstr ""
+
+#: include/abstract.php:148
+msgid "Select \"Yes\" to hide widget heading. Default is \"No\" to display it."
+msgstr ""
+
+#: include/abstract.php:518
+msgid "Select \"Yes\" to show the image and name of products author."
+msgstr ""
+
+#: include/abstract.php:505
+msgid "Select an animation style for the mouse hover of products item."
+msgstr ""
+
+#: include/abstract.php:524
+msgid "Select category to be opened as default"
+msgstr ""
+
+#: include/abstract.php:530
+msgid ""
+"Select default category to be opened on accordion creation . Default value "
+"is \"None\"."
+msgstr ""
+
+#: include/abstract.php:495
+msgid ""
+"Select products loading effect or animation style like loads product grid "
+"from left, right, top and bottom"
+msgstr ""
+
+#: include/abstract.php:361
+msgid ""
+"Select the ajax pagination type like load more option, next and previous "
+"links or simple numeric pagination."
+msgstr ""
+
+#: include/abstract.php:449
+msgid "Select the product ordering type"
+msgstr ""
+
+#: include/abstract.php:443
+msgid ""
+"Select the shorting/ordering field like product id, title or posted/created "
+"date."
+msgstr ""
+
+#: include/abstract.php:184
+msgid "Select the template for accordion"
+msgstr ""
+
+#: include/abstract.php:429
+msgid ""
+"Set the height of image in pixel. eg. 200 <br /> Note: Do not add \"px\" "
+"after the number"
+msgstr ""
+
+#: include/abstract.php:479
+msgid ""
+"Set the space/margin between products items. eg. 10 <br /> Note: Do not add "
+"\"px\" after the number"
+msgstr ""
+
+#: include/abstract.php:465
+msgid ""
+"Set the space/margin between products items. eg. 15 <br /> Note: Do not add "
+"\"px\" after the number"
+msgstr ""
+
+#: include/abstract.php:419
+msgid ""
+"Set the width of image and content block in pixel. eg. 200 <br /> Note: Do "
+"not add \"px\" after the number"
+msgstr ""
+
+#: include/abstract.php:367
+msgid "Short content character length"
+msgstr ""
+
+#: include/abstract.php:264
+msgid "Short/order category name by"
+msgstr ""
+
+#: include/shortcode.php:85 include/shortcode.php:327
+msgid "Shortcode"
+msgstr ""
+
+#: include/abstract.php:270
+msgid "Shorting by category IDs"
+msgstr ""
+
+#: include/abstract.php:515
+msgid "Show author image and name"
+msgstr ""
+
+#: include/abstract.php:355
+msgid "Simple numeric pagination"
+msgstr ""
+
+#: include/abstract.php:462
+msgid "Space/margin between products"
+msgstr ""
+
+#: include/abstract.php:171
+msgid "Template Style 1"
+msgstr ""
+
+#: include/abstract.php:180
+msgid "Template Style 10"
+msgstr ""
+
+#: include/abstract.php:181
+msgid "Template Style 11"
+msgstr ""
+
+#: include/abstract.php:182
+msgid "Template Style 12"
+msgstr ""
+
+#: include/abstract.php:172
+msgid "Template Style 2"
+msgstr ""
+
+#: include/abstract.php:173
+msgid "Template Style 3"
+msgstr ""
+
+#: include/abstract.php:174
+msgid "Template Style 4"
+msgstr ""
+
+#: include/abstract.php:175
+msgid "Template Style 5"
+msgstr ""
+
+#: include/abstract.php:176
+msgid "Template Style 6"
+msgstr ""
+
+#: include/abstract.php:177
+msgid "Template Style 7"
+msgstr ""
+
+#: include/abstract.php:178
+msgid "Template Style 8"
+msgstr ""
+
+#: include/abstract.php:179
+msgid "Template Style 9"
+msgstr ""
+
+#: include/abstract.php:167
+msgid "Templates"
+msgstr ""
+
+#: include/abstract.php:83 include/abstract.php:440
+msgid "Title"
+msgstr ""
+
+#: templates/fields/fld_option.php:34 templates/fields/fld_option.php:72
+#: templates/fields/fld_text.php:21 templates/fields/fld_text.php:48
+msgid "to enable this field"
+msgstr ""
+
+#: include/shortcode.php:258
+msgid "View"
+msgstr ""
+
+#: include/shortcode.php:263
+msgid "WCLM"
+msgstr ""
+
+#: include/abstract.php:123
+msgid "Widget title background color"
+msgstr ""
+
+#: include/abstract.php:113
+msgid "Widget title text color"
+msgstr ""
+
+#: include/abstract.php:132
+msgid "Widget Width"
+msgstr ""
+
+#: include/abstract.php:42
+msgid "Woocommerce Product List View"
+msgstr ""
+
+#: include/abstract.php:142 include/abstract.php:155 include/abstract.php:191
+#: include/abstract.php:226 include/abstract.php:239 include/abstract.php:252
+#: include/abstract.php:288 include/abstract.php:301 include/abstract.php:314
+#: include/abstract.php:327 include/abstract.php:340 include/abstract.php:377
+#: include/abstract.php:403 include/abstract.php:512
+msgid "Yes"
+msgstr ""
+
+#: include/admin.php:216
+msgid ""
+"Your site url is not registered from ikhodal.com or invalid license key, "
+"Please add your site url and get license key from ikhodal.com account, if "
+"you have already purchased plugin for wordpress."
+msgstr ""
